@@ -1,4 +1,4 @@
-package com.appk.auth;
+package com.appk.auth.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
